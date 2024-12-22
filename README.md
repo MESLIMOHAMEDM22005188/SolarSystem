@@ -32,3 +32,17 @@ This project is a Python-based simulation of the Solar System using **Pygame** a
 ## 🛠️ Requirements
 - Python 3.8 or higher
 - Pygame library
+
+## 🔧 Installation
+
+Clone the repository:
+```
+[git clone https://github.com/MESLIMOHAMEDM22005188/SolarSystem.git
+cd SolarSystem
+pip install pygame
+python main.py
+```
+
+🌟 Acknowledgments
+Inspired by the beauty of our Solar System.
+Special thanks to Pygame for making 2D simulations so accessible.
