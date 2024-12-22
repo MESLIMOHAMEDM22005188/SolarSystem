@@ -27,3 +27,8 @@ This project is a Python-based simulation of the Solar System using **Pygame** a
 ├── utils/
 │   ├── color.py           # Color constants for planets and objects
 ├── README.md              # Documentation for the project
+```
+
+## 🛠️ Requirements
+- Python 3.8 or higher
+- Pygame library
