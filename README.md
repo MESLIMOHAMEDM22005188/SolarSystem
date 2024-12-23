@@ -42,6 +42,8 @@ cd SolarSystem
 pip install pygame
 python main.py
 ```
+video = VideoFileClip("path_to_video.mp4")  # Replace with your video file path
+
 
 🌟 Acknowledgments
 Inspired by the beauty of our Solar System.
